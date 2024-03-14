@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: JFrog-Audit
+Version: 0.0.0
+Summary: Audit code before commit
+Home-page: https://github.com/marcelonyc/jfrog-pre-commit
+Author: JFrog
+Author-email: marcelol@jfrog.com
+Keywords: jfrog-audit,pre-commit,jas

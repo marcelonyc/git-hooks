@@ -1,0 +1,12 @@
+setup.py
+JFrog_Audit.egg-info/PKG-INFO
+JFrog_Audit.egg-info/SOURCES.txt
+JFrog_Audit.egg-info/dependency_links.txt
+JFrog_Audit.egg-info/entry_points.txt
+JFrog_Audit.egg-info/top_level.txt
+python_projects/__init__.py
+python_projects/src/__init__.py
+python_projects/src/__main__.py
+python_projects/src/main.py
+python_projects/src/tools/__init__.py
+python_projects/src/tools/jfrog.py
