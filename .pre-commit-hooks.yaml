@@ -1,0 +1,6 @@
+-   id: jfrog-audit
+    name: JFrog secret check
+    description: This hook finds secrets
+    entry: jfrog-audit
+    language: python
+    types: [text]
