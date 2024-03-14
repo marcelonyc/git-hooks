@@ -6,7 +6,8 @@ from setuptools import setup
 def get_version():
     """Parse package __version__.py to get version."""
     versionpy = (Path("python_projects/src") / "__version__.py").read_text()
-    return versionpy.split("'")[1]
+    version = versionpy.split("=")[1].replace("'","")
+    return version
 
 
 VERSION = get_version()
